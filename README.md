@@ -1,4 +1,4 @@
-#K6 POC
+# K6 POC
 This project was developed in order to have a first contact with K6. The API tested in this project is the Pet store: https://petstore.swagger.io/
 
 ##Setting the environtment
